@@ -25,6 +25,7 @@ class HelloApiView(APIView):
     }
 
     return Response(context)
+
   
   def post(self, request):
     """creates a hello message with our name"""
@@ -36,4 +37,19 @@ class HelloApiView(APIView):
 
       return Response({'message': message}) 
     else:
-      return Response(serializer.errors, status=status.HTTP_404_BAD_REQUEST)
+      return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+  
+  def put(self, request, pk=None):
+    """Handles updating an object"""
+    return Response({'method': 'PUT'})
+
+  
+  def patch(self, request, pk=None):
+    """Partially updates an object"""
+    return Response({'method': 'PATCH'})
+
+  
+  def delete(self, request, pk=None):
+    """Handles deleting an object"""
+    return Response({'method': 'DELETE'})
