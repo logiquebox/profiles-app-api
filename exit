@@ -1,0 +1,83 @@
+[33mcommit 0452cc8d9e81703cfd9bc1864cc50146ad63a4f2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Ujah Emmanuel <ujahemmanuel72@gmail.com>
+Date:   Wed Oct 7 13:52:26 2020 +0100
+
+    Added profile feed to API
+
+[33mcommit 8c96c397f51a48efad7b98b0445ac4c4e6e40290[m
+Author: Ujah Emmanuel <ujahemmanuel72@gmail.com>
+Date:   Wed Oct 7 13:37:18 2020 +0100
+
+    Profile feed item model
+
+[33mcommit 6c4827c8860156e070c2bfb6fbb58e5992bb91f8[m
+Author: Ujah Emmanuel <ujahemmanuel72@gmail.com>
+Date:   Wed Oct 7 14:06:06 2020 +0100
+
+    Added Login to Api
+
+[33mcommit 7b314ae55cb2ffc75501b2fb0ae322a9d9c36e83[m
+Author: Ujah Emmanuel <ujahemmanuel72@gmail.com>
+Date:   Wed Oct 7 14:11:16 2020 +0100
+
+    Added permissions and search filters to Profiles Api
+
+[33mcommit 97a2c3a5c6eeb13f6d1d50d9f6dd229a56145c29[m
+Author: Ujah Emmanuel <ujahemmanuel72@gmail.com>
+Date:   Tue Oct 6 02:40:00 2020 +0100
+
+    Added viewsets to Profiles Rest Api
+
+[33mcommit b07052c1b5cc1854df9fa4099eef870631680795[m
+Author: Ujah Emmanuel <ujahemmanuel72@gmail.com>
+Date:   Fri Oct 2 09:17:31 2020 +0100
+
+    Added PUT, PATCH and DELETE methods to our APIView
+
+[33mcommit e49abc8b7d9232e9688fadd7420b7e91d14b9272[m
+Author: Ujah Emmanuel <ujahemmanuel72@gmail.com>
+Date:   Thu Oct 1 10:36:28 2020 +0100
+
+    Added a POST method to HelloApiView
+
+[33mcommit f630e8ab7bebbe25d35e8d12b073c6661f3a2e4a[m
+Author: Ujah Emmanuel <ujahemmanuel72@gmail.com>
+Date:   Thu Oct 1 10:40:48 2020 +0100
+
+    Added an HelloApiView
+
+[33mcommit cffef3f55638e081b4248abac9cb45ecdf1b8f02[m
+Author: Ujah Emmanuel <ujahemmanuel72@gmail.com>
+Date:   Thu Oct 1 02:16:32 2020 +0100
+
+    modified profiles_api model
+
+[33mcommit b4560b159f98d682f839e9e7f8a2ea9a1467252d[m
+Author: Ujah Emmanuel <ujahemmanuel72@gmail.com>
+Date:   Thu Oct 1 02:44:26 2020 +0100
+
+    refactored the codebase and fix file auto reloading bug!
+
+[33mcommit 2f11c60aae7689112ec7c038a4ca258b8b05ee5f[m
+Author: Ujah Emmanuel <ujahemmanuel72@gmail.com>
+Date:   Wed Sep 30 10:00:54 2020 +0100
+
+    created models and made migrations
+
+[33mcommit e5a8a34675d5a935e8170fbcb77a2ed3cb78bfd7[m
+Author: Ujah Emmanuel <ujahemmanuel72@gmail.com>
+Date:   Wed Sep 30 10:03:38 2020 +0100
+
+    create django project and app
+
+[33mcommit 580891666063e4eb8f69f58a59bc2103117b460e[m
+Author: Ujah Emmanuel <ujahemmanuel72@gmail.com>
+Date:   Wed Sep 30 09:29:22 2020 +0100
+
+    setup virtual dev server and test
+
+[33mcommit 5bc745bd53050e9de08926efaaa1905f8086a032[m
+Author: Ujah Emmanuel <ujahemmanuel72@gmail.com>
+Date:   Wed Sep 30 09:53:43 2020 +0100
+
+    Initial commit and setup
